@@ -1,0 +1,15 @@
+.App {
+  margin: 0;
+  font-family: 'Comfortaa', cursive;
+}
+
+/* Doodle Background */
+.myProfileWrapper {    
+  background-image: url(./Images/bgLight.png);
+  background-attachment: fixed;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar{width:0.5rem}
+::-webkit-scrollbar-track{background:#562459; border-radius: 50px;}
+::-webkit-scrollbar-thumb{background:#A94399; border-radius: 50px;}

@@ -1,0 +1,19 @@
+.h-screen-90 {height: 85vh;}
+.chat-bg {background: #D9ADD1;}
+.received-message-bg {background: #f17a7e;}
+.sent-message-bg {background: #ffccce;}
+.w-80 {width: 80%;}
+
+.initial{
+    height: 2rem;
+    width: 2rem;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    background-color: #f14a4f;
+    color: #fff;
+}
+
+.noScrollBar::-webkit-scrollbar {
+    display: none;
+}
